@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/zhouzhou829/git-change-log#readme",
   "devDependencies": {
+    "@commitlint/config-conventional": "^13.2.0",
     "commitizen": "^4.2.4",
     "commitlint": "^13.2.1",
     "cz-conventional-changelog": "^3.3.0",
